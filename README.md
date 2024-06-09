@@ -1,9 +1,19 @@
-# SRS-document-for-staff-material-control-system
-      # Group members
+SRS Document for Staff Material Control System
+Group Members
+Suleyman Abdu
+ID: 147312
 
- # no 	      Name             	    ID
-**1	 SULEYMAN ABDU      	    147312 **
-**2	 BELETE SIYUM	          145584 **
-**3	 MOHAMMED HASSEN	          146918 **
-**4	 SISAY BUZALEW	          147285 **
-**5	 MEBT ANDUALEM       	    148974 **
+Belete Siyum
+ID: 145584
+
+Mohammed Hassen
+ID: 146918
+
+Sisay Buzalew
+ID: 147285
+
+Mebt Andualem
+ID: 148974
+
+Project Overview
+This document outlines the Software Requirements Specification (SRS) for the Staff Material Control System. The system aims to manage and track materials efficiently, ensuring that staff have access to necessary resources while maintaining accurate records.
